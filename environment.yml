@@ -1,0 +1,13 @@
+name: minimal-ds-project
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter # - You might want to install Jupyter manually; it might not be interesting/useful for people cloning this project.
+# Include pip based packages
+  # - pip:
+  #   - packages to be installed using pip
