@@ -1,2 +1,3 @@
+- Clone the repository
 - Create the `conda` environment using: `conda env create -f environment.yml`
--
+- Enjoy
